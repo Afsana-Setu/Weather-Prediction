@@ -81,10 +81,6 @@ Weather-Prediction/
 - **Advanced UI/UX**: Improve the design and user experience of the web application.
 - **Deployment**: Deploy the application to a cloud platform like Heroku or AWS.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Flask documentation
